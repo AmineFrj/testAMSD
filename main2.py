@@ -1,4 +1,4 @@
 ## test
-bonjour MLSD 
+bonjour M1
 bonjour 
 bonjour 
